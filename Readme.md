@@ -30,6 +30,12 @@
 
 ◎	 RHCSA
 
+## 专业技能
+ 
+◎  STP/VLAN, ACL/PBR/HSRP/Multicast/OSPF/BGP/EVPN, FEX/VPC/OTV/VXLAN/ACI等；
+
+◎  KT思维方式以及时间管理能力。
+
 ## 工作经历
 
 ### 2019.06 - 至今 思科大连技术有限公司   网络工程师(Customer Support Engineer)  
@@ -64,11 +70,6 @@
 
 ◎  支持中小型客户，处理设备配置/high CPU/内存/Crash/重启/软件 bug等故障；帮助客户定位、修复packets lost 问题。
 
-## 专业技能
- 
-◎  STP/VLAN, ACL/PBR/HSRP/Multicast/OSPF/BGP, FEX/VPC/OTV/VXLAN/ACI等；
-
-◎  KT思维方式以及时间管理能力。
 
 ## 自我评价
  
