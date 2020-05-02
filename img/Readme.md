@@ -11,7 +11,7 @@
 
 [参考设置-2](https://zhuanlan.zhihu.com/p/114175770)
 
-[Note] 上一个 link 出现的问题，就是 port 从 33667 直接变成 336671，有问题；看这个帖子，是要先 **退出** picgo，让 typora 自己打开即可。
+[Note] 上一个 link 出现的问题，就是 port 从 33667 直接变成 336671，有问题；看这个帖子，是要先 **退出** picgo，让 typora 自己打开即可。image 上传之后，picgo 会自己退出；不要操作太频繁，比如在 picgo 自动退出之前，再次 upload 新的 image，仍然会导致port 33667 - 336671 的问题。
 
 [参考设置-3](https://support.typora.io/Upload-Image/#upload-all-local-images)
 
