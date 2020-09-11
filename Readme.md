@@ -26,7 +26,7 @@
  
 ◎	 英语四级
 
-◎	 CCIE RS & DC
+◎	 CCIE RS & DC, DevNet DC Core/Professional
 
 ◎	 RHCSA
 
