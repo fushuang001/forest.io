@@ -32,47 +32,65 @@
 
 ## 专业技能
  
-◎  STP/VLAN, ACL/PBR/HSRP/Multicast/OSPF/BGP/EVPN, FEX/VPC/OTV/VXLAN/ACI等；
+◎  STP/VLAN, ACL/PBR/HSRP/Multicast/OSPF/BGP, FEX/VPC/VXLAN/EVPN
 
-◎  KT思维方式以及时间管理能力。
+◎  LAB 故障重现、Wireshark 数据包分析、Linux 和 VMware 基本操作以及排错
+
+◎  KT思维方式以及时间管理
+
+◎  新员工技术培训以及 mentor
+
+◎  团队协作，分享技术案例以及做 presentation
+
+◎  英语文档阅读、转化，以及英文邮件书写。
+
 
 ## 工作经历
 
 ### 2019.06 - 至今 思科大连技术有限公司   网络工程师(Customer Support Engineer)  
-支持全国 ACI 用户的 SDN 网络。
+◎  支持中国大陆和港澳台客户的 ACI SDN 网络；
+
+◎  协助客户设计、配置ACI 环境，验证 ACI infra 网络稳定性以及流量转发
+
+◎  与同事一起从 day 1搭建大连 ACI LAB 环境，用于 New Hire 培训以及故障重现
+
+◎  处理ACI故障，包括ACI 运维报错、与 VMware虚拟机集成 & 虚机迁移问题、与防火墙 & 负载均衡设备集成问题、与Internet对接 L3out 流量异常、Leaf & Spine由于 EndPoint 信息不同步/抖动导致的流量中断、 与其他厂商设备对接故障定位、ACI 在 SDN 理念中开放的 API应用与实践等。
+
+◎  协助日语组同事做 ACI 技术培训
+
+◎  与研发工程师协作，处理 ACI 设备相关的软件 bug，推动解决方案
+
+◎  与销售合作，帮助客户理解 ACI 运维的优势以及技术细节
+
+◎  与客户沟通，发现潜在的设备、服务合同机会并交由销售进一步跟进
+
 
 ### 2016.5 - 2019.06     思科大连技术有限公司   网络工程师(Customer Support Engineer)  
 
-◎  学习Nexus5k/6k/7k/3k/9k 平台知识，芯片/ASIC架构以及内部 packets 转发实现；
+◎ 支持金融和 OTT大客户的数据中心网络，主要产品是思科Nexus5k/6k/7k/3k/9k全系列交换机
 
-◎  支持Alibaba/Tencent/Bank等大客户的核心网络，处理数据中心相关的问题，包括 FEX/VPC/FabricPath/OTV/VXLAN EVPN等技术；掌握基本的 Linux 命令；
+◎  运用KT思维方式和经验，解决复杂的数据包转发问题，如VXLAN网络中数据包异常，引导客户找到问题关键点，提出解决方案，以及优化建议
 
-◎  运用KT思维方式和经验，解决复杂的数据包转发问题，如VXLAN网络中数据包异常，引导客户找到问题关键点，提出解决方案，以及优化建议；
-
-◎  搭建LAB环境，测试、重现客户的故障，帮助客户在LAB验证解决方案；
-
-◎  有良好的团队协作能力，会在 team 内部分享技术案例以及做 presentation；
-
-◎  拥有良好的英语文档阅读/吸收能力，以及英文邮件书写能力。
+◎  搭建LAB环境，测试、重现客户的故障，帮助客户在LAB验证解决方案
 
 
 ### 2014.7 - 2016.5   大连软件园股份有限公司   网络工程师(Customer Support Engineer)
-◎  学习Catalyst3850/4500/6500/6800平台知识，掌握板卡、引擎分布式转发的架构；
 
-◎ 支持大企业客户以及银行、ISP等；处理复杂的网络流量以及交换机设备本身问题， 包括Stack/VSS/Netflow/Multicast/EEM/引擎-板卡交互问题等；
+◎ 支持大企业客户，处理复杂的数据流量以及交换机设备问题；主要设备为思科模块化企业级产品 Catalyst3850/4500/6500/6800 
 
-◎  熟练使用数据包分析工具，如ACL/SPAN/IXIA/Wireshark/tcpdump/ELAM;
+◎  负责New Hire的流程和技术相关培训
 
-◎  负责new-hire的流程和技术相关培训。
 
 ### 2013.9 - 2014.7  北京华讯网络有限公司  实习网络工程师(Customer Support Engineer)
-◎  学习思科产品(ISR Router/ASA Firewall/Catalyst switch)硬件、软件相关知识；掌握 hardware troubleshooting 技能；掌握芯片/ASIC内部数据包转发流程；
 
-◎  支持中小型客户，处理设备配置/high CPU/内存/Crash/重启/软件 bug等故障；帮助客户定位、修复packets lost 问题。
+◎  支持中小型客户，处理简单的流量以及设备问题，主要设备为思科低端产品ISR Router/ASA Firewall/Catalyst switch
+
+◎  作为实习生在不同 team 协助工作
 
 
 ## 自我评价
  
-◎  自主学习，条理清晰，乐于做技术分享，拥有良好的团队协作能力；
+◎  自主学习，踏实做事，逻辑清晰，拥有良好的团队协作能力；
 
-◎  良好的工作压力适应能力，理解 customer business impact 并及时积极响应客户；
+◎  适应工作压力，理解 customer business impact 并及时积极响应客户；
+
