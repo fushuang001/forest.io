@@ -33,7 +33,7 @@
 
 ## 专业技能
  
-◎  STP/VLAN, ACL/PBR/HSRP/Multicast/OSPF/BGP, FEX/VPC/VXLAN/EVPN
+◎  STP/VLAN, ACL/PBR/HSRP/Multicast/OSPF/BGP, FEX/VPC/VXLAN/EVPN, AmazonAWS Cloud
 
 ◎  LAB 故障重现、Wireshark 数据包分析、Linux 和 VMware 基本操作以及排错
 
@@ -48,7 +48,10 @@
 
 ## 工作经历
 
-### 2019.06 - 至今 思科大连技术有限公司   网络工程师(Customer Support Engineer)  
+### 2021.08 - 至今 北京西云数据有限公司   云计算支持工程师(Cloud Support Engineer)  
+◎  对中国大陆客户提供 AWS 云计算产品相关支持，主要包括 CloudFront, VPC, ELB, WAF, Transit Gateway, NAT-Gateway, R53, S3, CloudWatch, CloudTrail, IAM, EC2；
+
+### 2019.06 - 2021。08 思科大连技术有限公司   网络工程师(Customer Support Engineer)  
 ◎  支持中国大陆和港澳台客户的 ACI SDN 网络；
 
 ◎  协助客户设计、配置ACI 环境，验证 ACI infra 网络稳定性以及流量转发
